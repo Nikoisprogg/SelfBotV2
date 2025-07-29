@@ -1,0 +1,23 @@
+{
+  "name": "sevenx-ai",
+  "version": "1.0.0",
+  "description": "WhatsApp SelfBot - SevenX AI menggunakan Bails",
+  "main": "SevenX.js",
+  "type": "module",
+  "scripts": {
+    "start": "node SevenX.js",
+    "dev": "node SevenX.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "selfbot",
+    "bails",
+    "baileys",
+    "automation"
+  ],
+  "author": "ARJSevenX",
+  "license": "MIT",
+  "dependencies": {
+    "bails": "^2.0.0"
+  }
+}
